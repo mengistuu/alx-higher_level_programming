@@ -1,3 +1,2 @@
-#!/bin/bash
-# Runs a python script
+#!/usr/bin/python3
 print("Best school")
